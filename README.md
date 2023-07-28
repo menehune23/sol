@@ -1,4 +1,4 @@
-# sol
+# Sol
 
 ## License
 
