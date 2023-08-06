@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1682754474
-ModificationTime: 1690526700
+ModificationTime: 1691305492
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -2597,8 +2597,11 @@ StartChar: c
 Encoding: 99 99 101
 Width: 900
 Flags: W
+HStem: 270.25 115.5<410.018 489.982>
+VStem: 392.25 115.5<288.019 367.982>
 LayerCount: 2
 Fore
+Refer: 13 46 S 0.75 0 0 0.75 112.5 277 2
 Validated: 1
 EndChar
 
@@ -2606,8 +2609,11 @@ StartChar: C
 Encoding: 67 67 102
 Width: 900
 Flags: W
+HStem: 270.25 115.5<410.018 489.982>
+VStem: 392.25 115.5<288.019 367.982>
 LayerCount: 2
 Fore
+Refer: 101 99 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -2615,8 +2621,11 @@ StartChar: X
 Encoding: 88 88 103
 Width: 900
 Flags: W
+HStem: 270.25 115.5<410.018 489.982>
+VStem: 392.25 115.5<288.019 367.982>
 LayerCount: 2
 Fore
+Refer: 104 120 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -2624,8 +2633,11 @@ StartChar: x
 Encoding: 120 120 104
 Width: 900
 Flags: W
+HStem: 270.25 115.5<410.018 489.982>
+VStem: 392.25 115.5<288.019 367.982>
 LayerCount: 2
 Fore
+Refer: 13 46 S 0.75 0 0 0.75 112.5 277 2
 Validated: 1
 EndChar
 
@@ -2633,8 +2645,11 @@ StartChar: q
 Encoding: 113 113 105
 Width: 900
 Flags: W
+HStem: 270.25 115.5<410.018 489.982>
+VStem: 392.25 115.5<288.019 367.982>
 LayerCount: 2
 Fore
+Refer: 13 46 S 0.75 0 0 0.75 112.5 277 2
 Validated: 1
 EndChar
 
@@ -2642,8 +2657,11 @@ StartChar: Q
 Encoding: 81 81 106
 Width: 900
 Flags: W
+HStem: 270.25 115.5<410.018 489.982>
+VStem: 392.25 115.5<288.019 367.982>
 LayerCount: 2
 Fore
+Refer: 105 113 N 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 EndChars
