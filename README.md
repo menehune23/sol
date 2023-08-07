@@ -17,7 +17,7 @@ The name "Sol" is an acronym:
 Sol's letters are shown below [in order](#ordering). Use the [Solat](#solat) column with the [fonts](fonts) included in this repo to see which Latin keyboard sequence will yield the corresponding letter. Click on a letter to view a larger image.
 
 | Letter                                                              | Solat    | Latin Example     |
-| ------------------------------------------------------------------- | -------- | ----------------- |
+| :------------------------------------------------------------------ | :------- | :---------------- |
 | [<img src="images/h.png"   alt="h"   width="50px">](images/h.png)   | `h`      | ***h***ot         |
 | [<img src="images/a.png"   alt="a"   width="50px">](images/a.png)   | `a`      | ***a***pple       |
 | [<img src="images/e.png"   alt="e"   width="50px">](images/e.png)   | `e`      | p***e***t         |
@@ -67,7 +67,7 @@ In scenarios where it is not feasable or appropriate to write with Sol's symbols
 Below are some examples of English phrases written traditionally (i.e. with Latin symbols), in Solat, and in Sol:
 
 | Phrase              | Solat        | Sol
-| ------------------- | ------------ | ----
+| :------------------ | :----------- | :--
 | Hello!              | !helow!      | <img src="images/exclamation.png" alt="!" width="25px"><img src="images/h.png" alt="h" width="25px"><img src="images/e.png" alt="e" width="25px"><img src="images/l.png" alt="l" width="25px"><img src="images/ow.png" alt="ow" width="25px"><img src="images/exclamation.png" alt="!" width="25px">
 | How are you?        | ?haw or yoo? | <img src="images/question.png" alt="?" width="25px"><img src="images/h.png" alt="h" width="25px"><img src="images/a.png" alt="a" width="25px"><img src="images/w.png" alt="w" width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/o.png" alt="o" width="25px"><img src="images/r.png" alt="r" width="25px"><img src="images/space.png" alt="space" width="25px"><img src="images/yoo.png" alt="yoo" width="25px"><img src="images/question.png" alt="?" width="25px">
 | I'm better, thanks. | oy'm betr, ttheynks. | <img src="images/oy.png" alt="oy" width="25px"><img src="images/apostrophe.png" alt="'" width="25px"><img src="images/m.png" alt="m" width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/b.png" alt="b" width="25px"><img src="images/e.png" alt="e" width="25px"><img src="images/t.png" alt="t" width="25px"><img src="images/r.png" alt="r" width="25px"><img src="images/comma.png" alt="," width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/tth.png" alt="tth" width="25px"><img src="images/ey.png" alt="ey" width="25px"><img src="images/n.png" alt="n" width="25px"><img src="images/k.png" alt="k" width="25px"><img src="images/s.png" alt="s" width="25px"><img src="images/period.png" alt="." width="25px">
@@ -166,6 +166,10 @@ All other punctuation marks, as well as symbols and numbers, are used as they ar
 ### Capital Letters
 
 There are no capital letters in Sol. Instead, context is relied upon to convey ideas like proper nouns. If disambiguation is needed, periods may be used between letters of an acronym, and proper nouns may be underlined or otherwise emphasized.
+
+### Symbol Width
+
+Sol symbols, regardless of font, are intended to be fixed-with. This makes it easy to align letters for formatting purposes.
 
 ## License
 
