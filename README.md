@@ -68,9 +68,9 @@ Below are some examples of English phrases written traditionally (i.e. with Lati
 
 | Phrase              | Solat        | Sol
 | ------------------- | ------------ | ----
-| Hello!              | !helow!      | <img src="images/exclamation.png" alt="!" width="25px"><img src="images/h.png" alt="h" width="25px"><img src="images/e.png" alt="e" width="25px"><img src="images/l.png" alt="l" width="25px"><img src="images/ow.png" alt="ow" width="25px"><img src="images/space.png" alt="space" width="25px"><img src="images/exclamation.png" alt="!" width="25px">
+| Hello!              | !helow!      | <img src="images/exclamation.png" alt="!" width="25px"><img src="images/h.png" alt="h" width="25px"><img src="images/e.png" alt="e" width="25px"><img src="images/l.png" alt="l" width="25px"><img src="images/ow.png" alt="ow" width="25px"><img src="images/exclamation.png" alt="!" width="25px">
 | How are you?        | ?haw or yoo? | <img src="images/question.png" alt="?" width="25px"><img src="images/h.png" alt="h" width="25px"><img src="images/a.png" alt="a" width="25px"><img src="images/w.png" alt="w" width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/o.png" alt="o" width="25px"><img src="images/r.png" alt="r" width="25px"><img src="images/space.png" alt="space" width="25px"><img src="images/yoo.png" alt="yoo" width="25px"><img src="images/question.png" alt="?" width="25px">
-| I'm better, thanks. | oy'm betr, ttheynks. | <img src="images/oy.png" alt="oy" width="25px"><img src="images/apostrophe.png" alt="'" width="25px"><img src="images/m.png" alt="m" width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/b.png" alt="b" width="25px"><img src="images/e.png" alt="e" width="25px"><img src="images/t.png" alt="t" width="25px"><img src="images/r.png" alt="r" width="25px"><img src="images/comma.png" alt="," width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/tth.png" alt="tth" width="25px"><img src="images/ey.png" alt="ey" width="25px"><img src="images/n.png" alt="n" width="25px"><img src="images/k.png" alt="k" width="25px"><img src="images/s.png" alt="s" width="25px">
+| I'm better, thanks. | oy'm betr, ttheynks. | <img src="images/oy.png" alt="oy" width="25px"><img src="images/apostrophe.png" alt="'" width="25px"><img src="images/m.png" alt="m" width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/b.png" alt="b" width="25px"><img src="images/e.png" alt="e" width="25px"><img src="images/t.png" alt="t" width="25px"><img src="images/r.png" alt="r" width="25px"><img src="images/comma.png" alt="," width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/tth.png" alt="tth" width="25px"><img src="images/ey.png" alt="ey" width="25px"><img src="images/n.png" alt="n" width="25px"><img src="images/k.png" alt="k" width="25px"><img src="images/s.png" alt="s" width="25px"><img src="images/period.png" alt="." width="25px">
 
 ## Starbursts
 
@@ -82,7 +82,9 @@ The consonant letter symbols are derived from a combination of arcs and lines. M
 
 Rather than following traditional alphabetical ordering, Sol groups its consonants around eight **base consonants**. The remaining **derived consonants** are formed by small modifications of these bases. Specifically, to "harden" a base sound -- such as hardening `d` into `t` -- the base symbol's prong is typically doubled. To "buzz" a base sound -- such as buzzing `s` into `z` -- a vertical bar is typically added to the base symbol. Lastly, to "breathe" a base sound -- such as breathing `s` into `sh` -- a horizontal bar is added to the base symbol.
 
-Three traditional consonants that are not included in Sol's consonant starburst are `h`, `w`, and `y`, as they form the basis for the [vowel starburst](#vowels).
+Sol does not include symbols for traditional consonants `c`, `q`, or `x`, as their sounds can be achieved with existing letters.
+
+Three other traditional consonants that are not included in Sol's consonant starburst are `h`, `w`, and `y`, as they form the basis for the [vowel starburst](#vowels).
 
 [<img src="images/consonant_starburst.png" alt="consonant starburst" width="600px">](images/consonant_starburst.png)
 
@@ -167,4 +169,6 @@ There are no capital letters in Sol. Instead, context is relied upon to convey i
 
 ## License
 
-[SIL Open Font License v1.1](http://scripts.sil.org/OFL)
+Concept & Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Font: [SIL Open Font License v1.1](http://scripts.sil.org/OFL)
