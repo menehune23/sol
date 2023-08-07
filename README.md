@@ -1,20 +1,22 @@
 # Sol
 
-"Sol" is derived from the phrase "structured orthographic letterset":
+<img src="images/s.png" alt="s" width="50px"><img src="images/ow.png" alt="ow" width="50px"><img src="images/l.png" alt="l" width="50px">
 
-**Structured**: Sol's letters are born from structures called [starbursts](#starbursts) which help make Sol easy to learn
+Sol is a phonetic letterset whose goal is to represent spoken languages (primarily English) while eliminating the ambiguities and confusing nature of the traditional Latin alphabet.
 
-**Orthographic**: Each of Sol's letters makes exactly one sound, and no two symbols make the same sound
+The name "Sol" is an acronym:
 
-**Letterset**: While Sol is technically an "alphabet," the more general term "letterset" was chosen to distance Sol from the expectations of conventional alphabets
+**Structured**: Sol's letters are born from structures called [starbursts](#starbursts) which help make Sol easy to learn.
 
-The aim of Sol is to provide a set of letters which can represent spoken languages (primarily English) while eliminating the ambiguities and confusing nature of the traditional Latin alphabet.
+**Orthographic**: Each of Sol's letters makes exactly one sound, and no two symbols make the same sound.
+
+**Letterset**: While Sol is technically an "alphabet," the more general term "letterset" was chosen to distance Sol from the expectations of conventional alphabets.
 
 ## Reference Table
 
-Sol's letters [in order](#ordering) are shown below. Use the `Keyboard` column with the [fonts](fonts) included in this repo to see which Latin keyboard sequence will yield the corresponding letter. Click on a letter to view a larger image.
+Sol's letters are shown below [in order](#ordering). Use the [Solat](#solat) column with the [fonts](fonts) included in this repo to see which Latin keyboard sequence will yield the corresponding letter. Click on a letter to view a larger image.
 
-| Letter                                                              | Keyboard | Latin Example     |
+| Letter                                                              | Solat    | Latin Example     |
 | ------------------------------------------------------------------- | -------- | ----------------- |
 | [<img src="images/h.png"   alt="h"   width="50px">](images/h.png)   | `h`      | ***h***ot         |
 | [<img src="images/a.png"   alt="a"   width="50px">](images/a.png)   | `a`      | ***a***pple       |
@@ -52,6 +54,24 @@ Sol's letters [in order](#ordering) are shown below. Use the `Keyboard` column w
 | [<img src="images/sh.png"  alt="sh"  width="50px">](images/sh.png)  | `sh`     | ***sh***oe        |
 | [<img src="images/ch.png"  alt="ch"  width="50px">](images/ch.png)  | `ch`     | ***ch***at        |
 
+## Writing in Sol
+
+To write a word or phrase in Sol, break it down into its phoenetic parts, then choose the appropriate letter from the [table above](#reference-table) for each part. Writing Sol is simple and straightforward, as there is no need to add complexities that exist in languages such as written English, like silent `e`s, doubled consonants, or nonsensical letter combinations (e.g. `igh` pronounced as a long `i`). Also see [Other Rules](#other-rules).
+
+### Solat
+
+In scenarios where it is not feasable or appropriate to write with Sol's symbols, Sol can be written using Latin alphabetical symbols. This is called **Solat**. The [fonts](fonts) included in this repo use ligatures to detect typed Solat sequences (case-insensitively) and convert them to Sol symbols automatically.
+
+### Examples
+
+Below are some examples of English phrases written traditionally (i.e. with Latin symbols), in Solat, and in Sol:
+
+| Phrase              | Solat        | Sol
+| ------------------- | ------------ | ----
+| Hello!              | !helow!      | <img src="images/exclamation.png" alt="!" width="25px"><img src="images/h.png" alt="h" width="25px"><img src="images/e.png" alt="e" width="25px"><img src="images/l.png" alt="l" width="25px"><img src="images/ow.png" alt="ow" width="25px"><img src="images/space.png" alt="space" width="25px"><img src="images/exclamation.png" alt="!" width="25px">
+| How are you?        | ?haw or yoo? | <img src="images/question.png" alt="?" width="25px"><img src="images/h.png" alt="h" width="25px"><img src="images/a.png" alt="a" width="25px"><img src="images/w.png" alt="w" width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/o.png" alt="o" width="25px"><img src="images/r.png" alt="r" width="25px"><img src="images/space.png" alt="space" width="25px"><img src="images/yoo.png" alt="yoo" width="25px"><img src="images/question.png" alt="?" width="25px">
+| I'm better, thanks. | oy'm betr, ttheynks. | <img src="images/oy.png" alt="oy" width="25px"><img src="images/apostrophe.png" alt="'" width="25px"><img src="images/m.png" alt="m" width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/b.png" alt="b" width="25px"><img src="images/e.png" alt="e" width="25px"><img src="images/t.png" alt="t" width="25px"><img src="images/r.png" alt="r" width="25px"><img src="images/comma.png" alt="," width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/tth.png" alt="tth" width="25px"><img src="images/ey.png" alt="ey" width="25px"><img src="images/n.png" alt="n" width="25px"><img src="images/k.png" alt="k" width="25px"><img src="images/s.png" alt="s" width="25px">
+
 ## Starbursts
 
 Sol's letters are based around two "starbursts," the 8-pronged [consonant starburst](#consonants), and the 3-pronged [vowel starburst](#vowels).
@@ -78,13 +98,13 @@ _Click image to view full size_
 
 > **For the Curious...**
 >
-> The symbols for the long `a`, `i`, and `u` sounds are simply ligatures of the traditional short `e`, short `o`, and long `oo` symbols, respectively, in combination with the symbol for `y`:
+> The symbols for the long `a`, `i`, and `u` sounds are simply ligatures of the traditional short `e`, short `o`, and long `oo` symbols, respectively, with the symbol for `y`:
 >
 > Long `a`:
 >
 > `e` + `y` = `ey`
 >
-> <img src="images/e.png" alt="e" width="25px"> <img src="images/plus.png" alt="+" width="25px"> <img src="images/y.png" alt="y" width="25px"> <img src="images/equal.png" alt="=" width="25px"> <img src="images/ey.png" alt="ey" width="25px">
+> <img src="images/e.png" alt="e" width="25px"><img src="images/plus.png" alt="+" width="25px"><img src="images/y.png" alt="y" width="25px"><img src="images/equal.png" alt="=" width="25px"><img src="images/ey.png" alt="ey" width="25px">
 >
 > ---
 >
@@ -92,7 +112,7 @@ _Click image to view full size_
 >
 > `o` + `y` = `oy`
 >
-> <img src="images/o.png" alt="o" width="25px"> <img src="images/plus.png" alt="+" width="25px"> <img src="images/y.png" alt="y" width="25px"> <img src="images/equal.png" alt="=" width="25px"> <img src="images/oy.png" alt="oy" width="25px">
+> <img src="images/o.png" alt="o" width="25px"><img src="images/plus.png" alt="+" width="25px"><img src="images/y.png" alt="y" width="25px"><img src="images/equal.png" alt="=" width="25px"><img src="images/oy.png" alt="oy" width="25px">
 >
 > ---
 >
@@ -100,7 +120,7 @@ _Click image to view full size_
 >
 > `y` + `oo` = `yoo`
 >
-> <img src="images/y.png" alt="y" width="25px"> <img src="images/plus.png" alt="+" width="25px"> <img src="images/oo.png" alt="oo" width="25px"> <img src="images/equal.png" alt="=" width="25px"> <img src="images/yoo.png" alt="yoo" width="25px">
+> <img src="images/y.png" alt="y" width="25px"> <img src="images/plus.png" alt="+" width="25px"><img src="images/oo.png" alt="oo" width="25px"><img src="images/equal.png" alt="=" width="25px"><img src="images/yoo.png" alt="yoo" width="25px">
 
 ## Ordering
 
@@ -133,7 +153,7 @@ Sol's letters are ordered by the following criteria, in order of precedence:
 
 ### Vowel Omission
 
-Because Sol's letters map to sounds, and many sounds are traditionally pronounced ambigiously in the context of a word -- such as the ending sounds of "barber" and "harbor" -- omit vowels where the expected pronounciation would already naturally occur. For instance, the previous examples would be spelled "barbr" and "harbr" if a Latin alphabet were being used.
+Because Sol's letters map to sounds, and many sounds are traditionally pronounced ambigiously in the context of a word -- such as the ending sounds of "barber" and "harbor" -- omit vowels where the expected pronounciation would already naturally occur. For instance, the previous examples would be spelled "borbr" and "horbr" in [Solat](#solat).
 
 ### Punctuation, Symbols, and Numbers
 
