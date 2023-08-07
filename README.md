@@ -169,7 +169,7 @@ There are no capital letters in Sol. Instead, context is relied upon to convey i
 
 ### Symbol Width
 
-Sol symbols, regardless of font, are intended to be fixed-with. This makes it easy to align letters for formatting purposes.
+Sol symbols, regardless of font, are intended to be fixed-width. This makes it easy to align letters for formatting purposes.
 
 ## License
 
