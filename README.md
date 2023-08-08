@@ -155,7 +155,7 @@ Sol's letters are ordered by the following criteria, in order of precedence:
 
 ### Vowel Omission
 
-Because Sol's letters map to sounds, and many sounds are traditionally pronounced ambigiously in the context of a word -- such as the ending sounds of "barber" and "harbor" -- omit vowels where the expected pronounciation would already naturally occur. For instance, the previous examples would be spelled "borbr" and "horbr" in [Solat](#solat).
+Because Sol's letters map to sounds, and many sounds are traditionally pronounced ambigiously in the context of a word -- such as the ending sounds of "barber" and "harbor" -- omit vowels where the expected pronunciation would already naturally occur. For instance, the previous examples would be spelled "borbr" and "horbr" in [Solat](#solat).
 
 ### Punctuation, Symbols, and Numbers
 
