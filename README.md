@@ -8,7 +8,7 @@ The name "Sol" is an acronym:
 
 **Structured**: Sol's letters are born from structures called [starbursts](#starbursts) which help make Sol easy to learn.
 
-**Orthographic**: Each of Sol's letters makes exactly one sound, and no two symbols make the same sound.
+**Orthographic**: Each of Sol's letters always makes exactly one sound, regardless of context, and no two letters make the same sound.
 
 **Letterset**: While Sol is technically an "alphabet," the more general term "letterset" was chosen to distance Sol from the expectations of conventional alphabets.
 
@@ -60,11 +60,11 @@ To write a word or phrase in Sol, break it down into its phonetic parts, then ch
 
 ### Solat
 
-In scenarios where it is not feasable or appropriate to write with Sol's symbols, Sol can be written using Latin alphabetical symbols. This is called **Solat**. The [fonts](fonts) included in this repo use ligatures to detect typed Solat sequences (case-insensitively) and convert them to Sol symbols automatically.
+In scenarios where it is not feasable or appropriate to write Sol with Sol's symbols, Sol can be written using Latin alphabetical symbols. This is called **Solat**. The [fonts](fonts) included in this repo use ligatures to detect typed Solat sequences ([case-insensitively](#capitalization)) and convert them to Sol symbols automatically.
 
 ### Examples
 
-Below are some examples of English phrases written traditionally (i.e. with Latin symbols), in Solat, and in Sol:
+Below are some examples of English phrases written traditionally (i.e. with Latin symbols), with Solat symbols, and with Sol symbols:
 
 | Phrase              | Solat        | Sol
 | :------------------ | :----------- | :--
@@ -80,9 +80,9 @@ Sol's letters are based around two "starbursts," the 8-pronged [consonant starbu
 
 The consonant letter symbols are derived from a combination of arcs and lines. Moving counter-clockwise around the starburst, the **base consonants** are formed by combining each quadrant's corresponding arc with the letter's corresponding prong. By always placing the prong to the right of the arc, horizontal symmetry is broken, eliminating the confusion that exists between horizontally-symmetric letters of the Latin alphabet, such as `b` and `d`.
 
-Rather than following traditional alphabetical ordering, Sol groups its consonants around eight **base consonants**. The remaining **derived consonants** are formed by small modifications of these bases. Specifically, to "harden" a base sound -- such as hardening `d` into `t` -- the base symbol's prong is typically doubled. To "buzz" a base sound -- such as buzzing `s` into `z` -- a vertical bar is typically added to the base symbol. Lastly, to "breathe" a base sound -- such as breathing `s` into `sh` -- a horizontal bar is added to the base symbol.
+Rather than following traditional alphabetical ordering, Sol groups its consonants around the eight **base consonants**. The remaining **derived consonants** are formed by small modifications of these bases. Specifically, to "harden" a base sound -- such as hardening `d` into `t` -- the base symbol's prong is typically doubled. To "buzz" a base sound -- such as buzzing `s` into `z` -- a vertical bar is typically added to the base symbol. Lastly, to "breathe" a base sound -- such as breathing `s` into `sh` -- a horizontal bar is added to the base symbol.
 
-Sol does not include symbols for traditional consonants `c`, `q`, or `x`, as their sounds can be achieved with existing letters.
+Sol does not include traditional consonants `c`, `q`, or `x`, as their sounds can be achieved with existing letters.
 
 Three other traditional consonants that are not included in Sol's consonant starburst are `h`, `w`, and `y`, as they form the basis for the [vowel starburst](#vowels).
 
@@ -169,7 +169,7 @@ There are no capital letters in Sol. Instead, context is relied upon to convey i
 
 ### Symbol Width
 
-Sol symbols, regardless of font, are intended to be fixed-width. This makes it easy to align letters for formatting purposes.
+Sol symbols, regardless of font, are intended to be fixed-width. This makes it easy to format content using spaces and tabs.
 
 ## License
 
