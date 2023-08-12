@@ -56,7 +56,7 @@ Sol's letters are shown below [in order](#ordering). Use the [Solat](#solat) col
 
 ## Writing in Sol
 
-To write a word or phrase in Sol, break it down into its phonetic parts, then choose the appropriate letter from the [table above](#reference-table) for each part. Writing Sol is simple and straightforward, as there is no need to add complexities that exist in languages such as written English, like silent `e`s, doubled consonants, or nonsensical letter combinations (e.g. `igh` pronounced as a long `i`). Also see [Other Rules](#other-rules).
+To write a word or phrase in Sol, break it down into its phonetic parts, then choose the appropriate letter from the [table above](#reference-table) for each part. Writing Sol is simple and straightforward, as there is no need to add complexities that exist in written English, like silent `e`s, doubled consonants, or nonsensical letter combinations (e.g. `igh` pronounced as a long `i`). Also see [Other Rules](#other-rules).
 
 ### Solat
 
@@ -165,7 +165,7 @@ Because Sol's letters map to sounds, and many sounds are traditionally spelled a
 
 ### Punctuation, Symbols, and Numbers
 
-Punctuation such as `!` and `?` are placed on **both sides** of a sentence. This idea, borrowed from written languages like Spanish, gives the reader an early indication of a sentence's intonation.
+Punctuation such as `!` and `?` are placed on **both sides** of a sentence. This idea, borrowed from written Spanish, gives the reader an early indication of a sentence's intonation.
 
 All other punctuation marks, as well as symbols and numbers, are used as they are traditonally.
 
