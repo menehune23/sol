@@ -80,7 +80,7 @@ Sol's letters are based around two "starbursts," the 8-pronged [consonant starbu
 
 <img src="images/consonant_starburst.png" alt="consonant starburst" width="600px">
 
-<small>_Click image to view full size_</small>
+<sup>_Click image to view full size_</sup>
 
 The consonant letter symbols are derived from a combination of arcs and lines. Moving counter-clockwise around the starburst, the **base consonants** are formed by combining each quadrant's corresponding arc with the letter's corresponding prong. By always placing the prong to the right of the arc, horizontal symmetry is broken, eliminating the confusion that exists between horizontally-symmetric letters of the Latin alphabet, such as `b` and `d`.
 
@@ -100,7 +100,7 @@ Three other traditional consonants that are not included in Sol's consonant star
 
 <img src="images/vowel_starburst.png" alt="vowel starburst" width="600px">
 
-<small>_Click image to view full size_</small>
+<sup>_Click image to view full size_</sup>
 
 The vowel starburst is formed by deriving each vowel from one of three sounds: `h`, `w`, or `y`. The long `o` and `oo` (as in "food") sounds branch from the `w` prong since they each end in a `w` sound. The short `a`, `e`, `i`, `o`, `u`, and `oo` (as in "book") sounds branch from the `h` prong since they each end in an `h` sound. Finally, the long `a`, `e`, and `i` sounds branch from the `y` prong since they each end in a `y` sound. The long `u` sound can be considered to branch from both the `y` and `w` branches, since it begins with a `y` sound and ends in a long `oo` sound, which itself branches from the `w` prong as mentioned previously.
 
