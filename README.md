@@ -1,6 +1,6 @@
 # Sol
 
-<img src="images/s.png" alt="s" width="50px"><img src="images/ow.png" alt="ow" width="50px"><img src="images/l.png" alt="l" width="50px">
+<img src="images/s.png" alt="s" width="50px"><img src="images/o.png" alt="o" width="50px"><img src="images/l.png" alt="l" width="50px">
 
 Sol is a phonetic letterset whose goal is to represent spoken languages (primarily English) while eliminating the ambiguities and confusing nature of the traditional Latin alphabet.
 
