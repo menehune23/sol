@@ -92,15 +92,15 @@ _Click image to view full size_
 
 ### Vowels
 
-The vowel starburst is formed by deriving each vowel from one of three sounds: `h`, `w`, or `y`. The traditonal long `o` and `oo` (as in "food") sounds branch from the `w` prong since they each end in a traditional `w` sound. The traditional short `a`, `e`, `i`, `o`, `u`, and `oo` (as in "book") sounds branch from the `h` prong since they each end in a traditional `h` sound. Finally, the traditional long `a`, `e`, and `i` sounds branch from the `y` prong since they each end in a traditonal `y` sound. The traditonal long `u` sound can be considered to branch from both the `y` and `w` branches, since it begins with a traditonal `y` sound and ends in a traditional long `oo` sound, which itself branches from the `w` prong as mentioned previously.
+The vowel starburst is formed by deriving each vowel from one of three sounds: `h`, `w`, or `y`. The long `o` and `oo` (as in "food") sounds branch from the `w` prong since they each end in a `w` sound. The short `a`, `e`, `i`, `o`, `u`, and `oo` (as in "book") sounds branch from the `h` prong since they each end in an `h` sound. Finally, the long `a`, `e`, and `i` sounds branch from the `y` prong since they each end in a `y` sound. The long `u` sound can be considered to branch from both the `y` and `w` branches, since it begins with a `y` sound and ends in a long `oo` sound, which itself branches from the `w` prong as mentioned previously.
 
 <img src="images/vowel_starburst.png" alt="vowel starburst" width="600px">
 
 _Click image to view full size_
 
-> **For the Curious...**
+> **For the curious...**
 >
-> The symbols for the long `a`, `i`, and `u` sounds are simply ligatures of the traditional short `e`, short `o`, and long `oo` symbols, respectively, with the symbol for `y`:
+> The letters for the long `a`, `i`, and `u` sounds are simply ligatures of the letters for the short `e`, short `o`, and long `oo` sounds, respectively, and the letter for the `y` sound:
 >
 > Long `a`:
 >
