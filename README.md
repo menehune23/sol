@@ -22,16 +22,16 @@ Sol's letters are shown below [in order](#ordering). Use the [Solat](#solat) col
 | [<img src="images/a.png"   alt="a"   width="50px">](images/a.png)   | `a`      | ***a***pple       |
 | [<img src="images/e.png"   alt="e"   width="50px">](images/e.png)   | `e`      | p***e***t         |
 | [<img src="images/i.png"   alt="i"   width="50px">](images/i.png)   | `i`      | s***i***t         |
-| [<img src="images/o.png"   alt="o"   width="50px">](images/o.png)   | `o`      | h***o***t         |
+| [<img src="images/ah.png"  alt="ah"  width="50px">](images/ah.png)  | `ah`     | h***o***t         |
 | [<img src="images/u.png"   alt="u"   width="50px">](images/u.png)   | `u`      | h***u***t         |
 | [<img src="images/uu.png"  alt="uu"  width="50px">](images/uu.png)  | `uu`     | p***u***t         |
 | [<img src="images/w.png"   alt="w"   width="50px">](images/w.png)   | `w`      | ***w***et         |
-| [<img src="images/ow.png"  alt="ow"   width="50px">](images/ow.png) | `ow`     | n***o***          |
+| [<img src="images/o.png"   alt="o"   width="50px">](images/o.png)   | `o`      | n***o***          |
 | [<img src="images/oo.png"  alt="oo"  width="50px">](images/oo.png)  | `oo`     | f***oo***d        |
 | [<img src="images/y.png"   alt="y"   width="50px">](images/y.png)   | `y`      | ***y***es         |
-| [<img src="images/ey.png"  alt="ey"  width="50px">](images/ey.png)  | `ey`     | n***a***me        |
 | [<img src="images/ee.png"  alt="ee"  width="50px">](images/ee.png)  | `ee`     | m***ee***t        |
-| [<img src="images/oy.png"  alt="oy"  width="50px">](images/oy.png)  | `oy`     | l***i***ke        |
+| [<img src="images/ey.png"  alt="ey"  width="50px">](images/ey.png)  | `ey`     | n***a***me        |
+| [<img src="images/ahy.png" alt="ahy" width="50px">](images/ahy.png) | `ahy`    | l***i***ke        |
 | [<img src="images/yoo.png" alt="yoo" width="50px">](images/yoo.png) | `yoo`    | h***u***ge        |
 | [<img src="images/b.png"   alt="b"   width="50px">](images/b.png)   | `b`      | ***b***uy         |
 | [<img src="images/p.png"   alt="p"   width="50px">](images/p.png)   | `p`      | ***p***ay         |
@@ -112,9 +112,9 @@ _Click image to view full size_
 >
 > Long `i`:
 >
-> `o` + `y` = `oy`
+> `ah` + `y` = `ahy`
 >
-> <img src="images/o.png" alt="o" width="25px"><img src="images/plus.png" alt="+" width="25px"><img src="images/y.png" alt="y" width="25px"><img src="images/equal.png" alt="=" width="25px"><img src="images/oy.png" alt="oy" width="25px">
+> <img src="images/ah.png" alt="ah" width="25px"><img src="images/plus.png" alt="+" width="25px"><img src="images/y.png" alt="y" width="25px"><img src="images/equal.png" alt="=" width="25px"><img src="images/ahy.png" alt="ahy" width="25px">
 >
 > ---
 >
@@ -122,7 +122,7 @@ _Click image to view full size_
 >
 > `y` + `oo` = `yoo`
 >
-> <img src="images/y.png" alt="y" width="25px"> <img src="images/plus.png" alt="+" width="25px"><img src="images/oo.png" alt="oo" width="25px"><img src="images/equal.png" alt="=" width="25px"><img src="images/yoo.png" alt="yoo" width="25px">
+> <img src="images/y.png" alt="y" width="25px"><img src="images/plus.png" alt="+" width="25px"><img src="images/oo.png" alt="oo" width="25px"><img src="images/equal.png" alt="=" width="25px"><img src="images/yoo.png" alt="yoo" width="25px">
 
 ## Ordering
 
@@ -136,9 +136,9 @@ Sol's letters are ordered by the following criteria, in order of precedence:
 
    _Vowels_:
 
-   - `h`-prong order: `h`, `a`, `e`, `i`, `o`, `u`, `uu`
+   - `h`-prong order: `h`, `a`, `e`, `i`, `ah`, `u`, `uu`
    - `w`-prong order: `w`, `ow`, `oo`
-   - `y`-prong order: `y`, `ey`, `ee`, `oy`
+   - `y`-prong order: `y`, `ee`, `ey`, `ahy`
    - `yoo`
 
    _Consonants_ (recursively):
