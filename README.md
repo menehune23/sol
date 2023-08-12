@@ -68,9 +68,9 @@ Below are some examples of English phrases written traditionally (i.e. with Lati
 
 | Phrase              | Solat        | Sol
 | :------------------ | :----------- | :--
-| Hello!              | !helow!      | <img src="images/exclamation.png" alt="!" width="25px"><img src="images/h.png" alt="h" width="25px"><img src="images/e.png" alt="e" width="25px"><img src="images/l.png" alt="l" width="25px"><img src="images/ow.png" alt="ow" width="25px"><img src="images/exclamation.png" alt="!" width="25px">
-| How are you?        | ?haw or yoo? | <img src="images/question.png" alt="?" width="25px"><img src="images/h.png" alt="h" width="25px"><img src="images/a.png" alt="a" width="25px"><img src="images/w.png" alt="w" width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/o.png" alt="o" width="25px"><img src="images/r.png" alt="r" width="25px"><img src="images/space.png" alt="space" width="25px"><img src="images/yoo.png" alt="yoo" width="25px"><img src="images/question.png" alt="?" width="25px">
-| I'm better, thanks. | oy'm betr, ttheynks. | <img src="images/oy.png" alt="oy" width="25px"><img src="images/apostrophe.png" alt="'" width="25px"><img src="images/m.png" alt="m" width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/b.png" alt="b" width="25px"><img src="images/e.png" alt="e" width="25px"><img src="images/t.png" alt="t" width="25px"><img src="images/r.png" alt="r" width="25px"><img src="images/comma.png" alt="," width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/tth.png" alt="tth" width="25px"><img src="images/ey.png" alt="ey" width="25px"><img src="images/n.png" alt="n" width="25px"><img src="images/k.png" alt="k" width="25px"><img src="images/s.png" alt="s" width="25px"><img src="images/period.png" alt="." width="25px">
+| Hello!              | !helo!      | <img src="images/exclamation.png" alt="!" width="25px"><img src="images/h.png" alt="h" width="25px"><img src="images/e.png" alt="e" width="25px"><img src="images/l.png" alt="l" width="25px"><img src="images/o.png" alt="o" width="25px"><img src="images/exclamation.png" alt="!" width="25px">
+| How are you?        | ?haw ahr yoo? | <img src="images/question.png" alt="?" width="25px"><img src="images/h.png" alt="h" width="25px"><img src="images/a.png" alt="a" width="25px"><img src="images/w.png" alt="w" width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/ah.png" alt="ah" width="25px"><img src="images/r.png" alt="r" width="25px"><img src="images/space.png" alt="space" width="25px"><img src="images/yoo.png" alt="yoo" width="25px"><img src="images/question.png" alt="?" width="25px">
+| I'm better, thanks. | ahy'm betr, ttheynks. | <img src="images/ahy.png" alt="ahy" width="25px"><img src="images/apostrophe.png" alt="'" width="25px"><img src="images/m.png" alt="m" width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/b.png" alt="b" width="25px"><img src="images/e.png" alt="e" width="25px"><img src="images/t.png" alt="t" width="25px"><img src="images/r.png" alt="r" width="25px"><img src="images/comma.png" alt="," width="25px"><img src="images/space.png" alt="(space)" width="25px"><img src="images/tth.png" alt="tth" width="25px"><img src="images/ey.png" alt="ey" width="25px"><img src="images/n.png" alt="n" width="25px"><img src="images/k.png" alt="k" width="25px"><img src="images/s.png" alt="s" width="25px"><img src="images/period.png" alt="." width="25px">
 
 ## Starbursts
 
@@ -137,7 +137,7 @@ Sol's letters are ordered by the following criteria, in order of precedence:
    _Vowels_:
 
    - `h`-prong order: `h`, `a`, `e`, `i`, `ah`, `u`, `uu`
-   - `w`-prong order: `w`, `ow`, `oo`
+   - `w`-prong order: `w`, `o`, `oo`
    - `y`-prong order: `y`, `ee`, `ey`, `ahy`
    - `yoo`
 
