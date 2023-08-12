@@ -16,43 +16,43 @@ The name "Sol" is an acronym:
 
 Sol's letters are shown below [in order](#ordering). Use the [Solat](#solat) column with the [fonts](fonts) included in this repo to see which Latin keyboard sequence will yield the corresponding letter. Click on a letter to view a larger image.
 
-| Letter                                                              | Solat    | Latin Example     |
-| :------------------------------------------------------------------ | :------- | :---------------- |
-| [<img src="images/h.png"   alt="h"   width="50px">](images/h.png)   | `h`      | ***h***ot         |
-| [<img src="images/a.png"   alt="a"   width="50px">](images/a.png)   | `a`      | ***a***pple       |
-| [<img src="images/e.png"   alt="e"   width="50px">](images/e.png)   | `e`      | p***e***t         |
-| [<img src="images/i.png"   alt="i"   width="50px">](images/i.png)   | `i`      | s***i***t         |
-| [<img src="images/ah.png"  alt="ah"  width="50px">](images/ah.png)  | `ah`     | h***o***t         |
-| [<img src="images/u.png"   alt="u"   width="50px">](images/u.png)   | `u`      | h***u***t         |
-| [<img src="images/uu.png"  alt="uu"  width="50px">](images/uu.png)  | `uu`     | p***u***t         |
-| [<img src="images/w.png"   alt="w"   width="50px">](images/w.png)   | `w`      | ***w***et         |
-| [<img src="images/o.png"   alt="o"   width="50px">](images/o.png)   | `o`      | n***o***          |
-| [<img src="images/oo.png"  alt="oo"  width="50px">](images/oo.png)  | `oo`     | f***oo***d        |
-| [<img src="images/y.png"   alt="y"   width="50px">](images/y.png)   | `y`      | ***y***es         |
-| [<img src="images/ee.png"  alt="ee"  width="50px">](images/ee.png)  | `ee`     | m***ee***t        |
-| [<img src="images/ey.png"  alt="ey"  width="50px">](images/ey.png)  | `ey`     | n***a***me        |
-| [<img src="images/ahy.png" alt="ahy" width="50px">](images/ahy.png) | `ahy`    | l***i***ke        |
-| [<img src="images/yoo.png" alt="yoo" width="50px">](images/yoo.png) | `yoo`    | h***u***ge        |
-| [<img src="images/b.png"   alt="b"   width="50px">](images/b.png)   | `b`      | ***b***uy         |
-| [<img src="images/p.png"   alt="p"   width="50px">](images/p.png)   | `p`      | ***p***ay         |
-| [<img src="images/d.png"   alt="d"   width="50px">](images/d.png)   | `d`      | ***d***ay         |
-| [<img src="images/j.png"   alt="j"   width="50px">](images/j.png)   | `j`      | ***j***am         |
-| [<img src="images/jh.png"  alt="jh"  width="50px">](images/jh.png)  | `jh`     | fu***si***on      |
-| [<img src="images/t.png"   alt="t"   width="50px">](images/t.png)   | `t`      | ***t***en         |
-| [<img src="images/thh.png" alt="thh" width="50px">](images/thh.png) | `thh`    | ***th***is        |
-| [<img src="images/tth.png" alt="tth" width="50px">](images/tth.png) | `tth`    | ***th***ink       |
-| [<img src="images/f.png"   alt="f"   width="50px">](images/f.png)   | `f`      | ***f***ar         |
-| [<img src="images/v.png"   alt="v"   width="50px">](images/v.png)   | `v`      | ***v***ast        |
-| [<img src="images/g.png"   alt="g"   width="50px">](images/g.png)   | `g`      | ***g***o          |
-| [<img src="images/k.png"   alt="k"   width="50px">](images/k.png)   | `k`      | ***k***aya***k*** |
-| [<img src="images/l.png"   alt="l"   width="50px">](images/l.png)   | `l`      | ***l***it         |
-| [<img src="images/m.png"   alt="m"   width="50px">](images/m.png)   | `m`      | ***m***y          |
-| [<img src="images/n.png"   alt="n"   width="50px">](images/n.png)   | `n`      | ***n***o          |
-| [<img src="images/r.png"   alt="r"   width="50px">](images/r.png)   | `r`      | ***r***est        |
-| [<img src="images/s.png"   alt="s"   width="50px">](images/s.png)   | `s`      | ***s***ay         |
-| [<img src="images/z.png"   alt="z"   width="50px">](images/z.png)   | `z`      | ***z***oo         |
-| [<img src="images/sh.png"  alt="sh"  width="50px">](images/sh.png)  | `sh`     | ***sh***oe        |
-| [<img src="images/ch.png"  alt="ch"  width="50px">](images/ch.png)  | `ch`     | ***ch***at        |
+| Letter                                            | Solat | Latin Example     |
+| :------------------------------------------------ | :---- | :---------------- |
+| <img src="images/h.png"   alt="h"   width="50px"> | `h`   | ***h***ot         |
+| <img src="images/a.png"   alt="a"   width="50px"> | `a`   | ***a***pple       |
+| <img src="images/e.png"   alt="e"   width="50px"> | `e`   | p***e***t         |
+| <img src="images/i.png"   alt="i"   width="50px"> | `i`   | s***i***t         |
+| <img src="images/ah.png"  alt="ah"  width="50px"> | `ah`  | h***o***t         |
+| <img src="images/u.png"   alt="u"   width="50px"> | `u`   | h***u***t         |
+| <img src="images/uu.png"  alt="uu"  width="50px"> | `uu`  | p***u***t         |
+| <img src="images/w.png"   alt="w"   width="50px"> | `w`   | ***w***et         |
+| <img src="images/o.png"   alt="o"   width="50px"> | `o`   | n***o***          |
+| <img src="images/oo.png"  alt="oo"  width="50px"> | `oo`  | f***oo***d        |
+| <img src="images/y.png"   alt="y"   width="50px"> | `y`   | ***y***es         |
+| <img src="images/ee.png"  alt="ee"  width="50px"> | `ee`  | m***ee***t        |
+| <img src="images/ey.png"  alt="ey"  width="50px"> | `ey`  | n***a***me        |
+| <img src="images/ahy.png" alt="ahy" width="50px"> | `ahy` | l***i***ke        |
+| <img src="images/yoo.png" alt="yoo" width="50px"> | `yoo` | h***u***ge        |
+| <img src="images/b.png"   alt="b"   width="50px"> | `b`   | ***b***uy         |
+| <img src="images/p.png"   alt="p"   width="50px"> | `p`   | ***p***ay         |
+| <img src="images/d.png"   alt="d"   width="50px"> | `d`   | ***d***ay         |
+| <img src="images/j.png"   alt="j"   width="50px"> | `j`   | ***j***am         |
+| <img src="images/jh.png"  alt="jh"  width="50px"> | `jh`  | fu***si***on      |
+| <img src="images/t.png"   alt="t"   width="50px"> | `t`   | ***t***en         |
+| <img src="images/thh.png" alt="thh" width="50px"> | `thh` | ***th***is        |
+| <img src="images/tth.png" alt="tth" width="50px"> | `tth` | ***th***ink       |
+| <img src="images/f.png"   alt="f"   width="50px"> | `f`   | ***f***ar         |
+| <img src="images/v.png"   alt="v"   width="50px"> | `v`   | ***v***ast        |
+| <img src="images/g.png"   alt="g"   width="50px"> | `g`   | ***g***o          |
+| <img src="images/k.png"   alt="k"   width="50px"> | `k`   | ***k***aya***k*** |
+| <img src="images/l.png"   alt="l"   width="50px"> | `l`   | ***l***it         |
+| <img src="images/m.png"   alt="m"   width="50px"> | `m`   | ***m***y          |
+| <img src="images/n.png"   alt="n"   width="50px"> | `n`   | ***n***o          |
+| <img src="images/r.png"   alt="r"   width="50px"> | `r`   | ***r***est        |
+| <img src="images/s.png"   alt="s"   width="50px"> | `s`   | ***s***ay         |
+| <img src="images/z.png"   alt="z"   width="50px"> | `z`   | ***z***oo         |
+| <img src="images/sh.png"  alt="sh"  width="50px"> | `sh`  | ***sh***oe        |
+| <img src="images/ch.png"  alt="ch"  width="50px"> | `ch`  | ***ch***at        |
 
 ## Writing in Sol
 
@@ -86,7 +86,7 @@ Sol does not include traditional consonants `c`, `q`, or `x`, as their sounds ca
 
 Three other traditional consonants that are not included in Sol's consonant starburst are `h`, `w`, and `y`, as they form the basis for the [vowel starburst](#vowels).
 
-[<img src="images/consonant_starburst.png" alt="consonant starburst" width="600px">](images/consonant_starburst.png)
+<img src="images/consonant_starburst.png" alt="consonant starburst" width="600px">
 
 _Click image to view full size_
 
@@ -94,7 +94,7 @@ _Click image to view full size_
 
 The vowel starburst is formed by deriving each vowel from one of three sounds: `h`, `w`, or `y`. The traditonal long `o` and `oo` (as in "food") sounds branch from the `w` prong since they each end in a traditional `w` sound. The traditional short `a`, `e`, `i`, `o`, `u`, and `oo` (as in "book") sounds branch from the `h` prong since they each end in a traditional `h` sound. Finally, the traditional long `a`, `e`, and `i` sounds branch from the `y` prong since they each end in a traditonal `y` sound. The traditonal long `u` sound can be considered to branch from both the `y` and `w` branches, since it begins with a traditonal `y` sound and ends in a traditional long `oo` sound, which itself branches from the `w` prong as mentioned previously.
 
-[<img src="images/vowel_starburst.png" alt="vowel starburst" width="600px">](images/vowel_starburst.png)
+<img src="images/vowel_starburst.png" alt="vowel starburst" width="600px">
 
 _Click image to view full size_
 
