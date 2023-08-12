@@ -175,4 +175,4 @@ Sol symbols, regardless of font, are intended to be fixed-width. This makes it e
 
 Concept & Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-Font: [SIL Open Font License v1.1](http://scripts.sil.org/OFL)
+Fonts: [SIL Open Font License v1.1](http://scripts.sil.org/OFL)
