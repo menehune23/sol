@@ -84,7 +84,7 @@ Sol's letters are based around two "starbursts," the 8-pronged [consonant starbu
 
 The consonant letter symbols are derived from a combination of arcs and lines. Moving counter-clockwise around the starburst, the **base consonants** are formed by combining each quadrant's corresponding arc with the letter's corresponding prong. By always placing the prong to the right of the arc, horizontal symmetry is broken, eliminating the confusion that exists between horizontally-symmetric letters of the Latin alphabet, such as `b` and `d`.
 
-Rather than following traditional alphabetical ordering, Sol groups its consonants around the eight **base consonants**. The remaining **derived consonants** are formed by small modifications of these bases. Specifically, to "harden" a base sound -- such as hardening `d` into `t` -- the base symbol's prong is typically doubled. To "buzz" a base sound -- such as buzzing `s` into `z` -- a vertical bar is typically added to the base symbol. Lastly, to "breathe" a base sound -- such as breathing `s` into `sh` -- a horizontal bar is added to the base symbol.
+Rather than following traditional alphabetical ordering, Sol groups its consonants around the eight **base consonants**. The remaining **derived consonants** are formed by small modifications of these bases. Specifically, to "harden" a base sound -- such as hardening `d` into `t` -- the base symbol's prong is doubled. To "buzz" a base sound -- such as buzzing `s` into `z` -- a vertical bar is added to the base symbol. Lastly, to "breathe" a base sound -- such as breathing `s` into `sh` -- a horizontal bar is added to the base symbol.
 
 > **For the curious...**
 >
