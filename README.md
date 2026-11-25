@@ -12,6 +12,8 @@ The name "Sol" is an acronym:
 
 **Letterset**: While Sol is technically an "alphabet," the more general term "letterset" was chosen to distance Sol from the expectations of conventional alphabets.
 
+**[Learn Sol with Stardoku!](https://menehune23.github.io/stardoku/)**
+
 ## Reference Table
 
 Sol's letters are shown below [in order](#ordering). Use the [Solat](#solat) column with the [fonts](fonts) included in this repo to see which Latin keyboard sequence will yield the corresponding letter. Click on a letter to view a larger image.
