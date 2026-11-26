@@ -12,7 +12,7 @@ The name "Sol" is an acronym:
 
 **Letterset**: While Sol is technically an "alphabet," the more general term "letterset" was chosen to distance Sol from the expectations of conventional alphabets.
 
-**[Learn Sol with Stardoku!](https://menehune23.github.io/stardoku/)**
+**[Learn Sol with Sol-doku!](https://menehune23.github.io/sol-doku/)**
 
 ## Reference Table
 
